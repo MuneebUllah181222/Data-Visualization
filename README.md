@@ -23,7 +23,7 @@ pip install pandas matplotlib seaborn numpy
 ```
 
 ## Usage
-Clone the repo and run the main.ipynb
+Clone the repo and run the Data-Visualization.ipynb
 
 ## Acknowledgement
 [Kaggle Data Visualization](https://www.kaggle.com/learn/data-visualization)
